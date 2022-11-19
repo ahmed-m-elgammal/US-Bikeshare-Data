@@ -28,7 +28,7 @@ python bikeshare_2.py
 
 ## Authors
 
-Contributors names and contact info
+contact info
 
 ex. [@me](https://www.linkedin.com/in/ahmed-m-elgammal/)
 
